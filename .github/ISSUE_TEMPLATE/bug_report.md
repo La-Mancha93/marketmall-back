@@ -1,38 +1,33 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: 🐞 버그 리포트
+about: 동작하지 않는 기능이나 오류가 발생한 경우에 사용합니다.
+title: "[BUG] "
+labels: bug
+---
+
+## 📌 버그 설명
+어떤 문제가 발생했는지 구체적으로 설명해주세요.
+
+예: 로그인 시 서버에서 500 에러가 발생합니다.
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 🔁 재현 절차
+버그를 어떻게 재현할 수 있는지 단계별로 설명해주세요.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. 로그인 페이지로 이동
+2. 아이디/비밀번호 입력
+3. 로그인 버튼 클릭
+4. 500 에러 발생
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+---
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 📱 환경
+문제가 발생한 환경 정보를 입력해주세요.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+예: macOS 14, Chrome 125, JDK 17
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+---
 
-**Additional context**
-Add any other context about the problem here.
+## 📸 스크린샷 / 로그
+필요하다면 스크린샷이나 에러 로그를 첨부해주세요.
