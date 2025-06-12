@@ -1,20 +1,25 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: ✨ 기능 요청
+about: 새로운 기능 또는 개선사항을 제안할 때 사용합니다.
+title: "[FEATURE] "
+labels: enhancement
+---
+
+## ✅ 요청 내용
+어떤 기능을 추가하거나 개선하고 싶은지 자세히 작성해주세요.
+
+예: 사용자 프로필에 닉네임 변경 기능을 추가하고 싶습니다.
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 🤔 왜 필요한가요?
+해당 기능이 왜 필요한지, 어떤 문제를 해결하는지 작성해주세요.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+예: 사용자가 닉네임을 자유롭게 설정할 수 있도록 하기 위함입니다.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+---
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 🔧 구현 아이디어
+구현 방식에 대한 아이디어가 있다면 작성해주세요.
+
+예: 닉네임 변경 API를 생성하고, MyPage에서 설정 가능하도록 UI 추가
